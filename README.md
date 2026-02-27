@@ -53,8 +53,6 @@ To run these projects, clone the repository and install the required dependencie
 git clone https://github.com/YOUR_USERNAME/EPS-Projects.git
 cd EPS-Projects
 
-# Install dependencies
-pip install numpy pandas matplotlib
 
 Each project is contained in its own folder. You can run the analysis by opening the Jupyter Notebooks (.ipynb) or executing the Python scripts.
 
